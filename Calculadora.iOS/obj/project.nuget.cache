@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uSYtYzM7Xbnk0l2cPbS1YpwWrGcrD1j7i3ABvlFkVyqS3cu+OB+UOZxX9wwlF17ZtbKPnPisfJ7j16HGN9+BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aluno.etec\\source\\repos\\Calculadora\\Calculadora.iOS\\Calculadora.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno.etec\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\aluno.etec\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

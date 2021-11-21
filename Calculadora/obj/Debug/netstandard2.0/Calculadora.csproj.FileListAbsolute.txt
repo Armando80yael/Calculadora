@@ -1,0 +1,15 @@
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.deps.json
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.dll
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\bin\Debug\netstandard2.0\ref\Calculadora.dll
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.pdb
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csprojAssemblyReference.cache
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\ref\Calculadora.dll
+C:\Users\aluno.etec\source\repos\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb
