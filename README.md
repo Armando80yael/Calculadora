@@ -1,2 +1,2 @@
-#🖩 Calculadora mobile desenvolvida em Xamarin
+🖩 Calculadora mobile desenvolvida em Xamarin
  
